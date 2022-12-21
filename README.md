@@ -5,4 +5,6 @@
 * ### example d'application.✔
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/aymanemontassir/Le-Model-PIMS/blob/main/PIMS_image.jpg)
+*abreviation de PIMS.*
+
 
