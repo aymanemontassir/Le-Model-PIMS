@@ -1,5 +1,5 @@
 ![](https://github.com/aymanemontassir/Le-Model-PIMS/blob/main/hello-bonjour.gif)   
-# Presentation de Plan
+## Presentation de Plan
 * ### Introduction et définition : la méthode PIMS.✔
 * ### paradigme de l'etude.✔
 * ### example d'application.✔
