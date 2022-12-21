@@ -1,4 +1,4 @@
-# Exposé sur la modèle PIMS <br>
+# Exposé sur le modèle PIMS <br>
 #### 🧑 Réaliser par: [MOHAMMED-AYMANE MONTASSIR & MOURAD EL OUINA]()
 ![](https://github.com/aymanemontassir/Le-Model-PIMS/blob/main/hello-bonjour.gif)   
 ## Presentation de Plan
